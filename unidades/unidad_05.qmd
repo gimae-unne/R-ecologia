@@ -1,9 +1,6 @@
 ---
 title: "Unidad 05"
 subtitle: "Pruebas de hipótesis estadísticas"
-format:
-  html: default
-  pdf: default
 ---
 
 # Introducción

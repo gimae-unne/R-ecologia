@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+lang: es
 website:
   title: "R aplicado a Ecología"
   navbar:
@@ -30,14 +31,3 @@ format:
     code-copy: true
     number-sections: true
     smooth-scroll: true
-  pdf:
-    documentclass: unne-guide
-    mainfont: Libertinus Serif
-    monofont: Adwaita Mono
-    number-sections: true
-    colorlinks: true
-    linkcolor: "005D8A"
-    include-in-header:
-      text: |
-        \usepackage{fvextra}
-        \fvset{breaklines=true, commandchars=\\\{\}, breaksymbol={}, breakindentnchars=2}

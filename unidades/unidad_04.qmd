@@ -1,9 +1,6 @@
 ---
 title: "Unidad 04"
 subtitle: "Evaluación de variables ambientales"
-format:
-  html: default
-  pdf: default
 ---
 
 # Introducción
